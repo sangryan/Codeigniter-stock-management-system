@@ -1,6 +1,6 @@
 # stockmanagementCI3
 
-Super Admin Crednetial
+Super Admin Details
 
 email: admin@admin.com
 password: password
